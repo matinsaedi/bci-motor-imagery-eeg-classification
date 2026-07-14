@@ -3,8 +3,8 @@
 Undergrad internship project at K. N. Toosi University of Technology, Tehran,
 Iran, Summer 2021.
 
-MATLAB project from a bachelor's internship on classifying left- vs. right-hand
-motor imagery from EEG signals. The project explores a progression of feature
+MATLAB project on classifying left- vs. right-hand motor imagery from EEG
+signals. The project explores a progression of feature
 engineering strategies (signal energy → 98 handcrafted statistical/spectral
 features → 465 band-specific features) paired with several classic machine
 learning classifiers (SVM, LDA, KNN, Naive Bayes), with and without PCA
