@@ -1,7 +1,7 @@
 # EEG Motor Imagery Classification (BCI Competition I, Dataset III)
 
-Undergrad internship project at K. N. Toosi University of Technology, Tehran,
-Iran, Summer 2021.
+An undergraduate internship project completed at K. N. Toosi University of
+Technology, Tehran, Iran, in Summer 2021.
 
 MATLAB project on classifying left- vs. right-hand motor imagery from EEG
 signals. The project explores a progression of feature
@@ -125,3 +125,4 @@ Toolbox, and Wavelet Toolbox (for `arburg`, `pburg`, `wavedec`, `wentropy`,
   development machine (e.g. `C:\Users\MATIN\Desktop\Mat`) — update the
   `folder` variable in `Data.m` to point at the `data/` folder in this repo
   before running.
+- This was a learning pr
